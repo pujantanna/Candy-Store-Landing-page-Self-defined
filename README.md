@@ -6,3 +6,7 @@ The goal of this project is to showcase my UI designof the website. A responsive
 
 # Upcoming
 This project will transit into fully operational candy store website, with all the functionality of the E-commerce environment.
+
+# Screenshot
+
+![Screenshot](screenshot.png)
